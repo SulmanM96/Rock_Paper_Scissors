@@ -1,4 +1,4 @@
-# Sparta_global_RPS
+# Rock Paper Scissors
 Created a basic version of Rock Paper Scissors where you play against a number randomiser in prompt
 
 Prerequisites
